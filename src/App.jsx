@@ -7,10 +7,10 @@ function App() {
       <div style={{ width: '50vw', height: '100vh' }}>
         <BrainViewer />
       </div>
-      
-        
+      <div style={{ width: '50vw', height: '100vh' }}>
+        <BrainHover />
       </div>
-  
+    </div>
   )
 }
 
