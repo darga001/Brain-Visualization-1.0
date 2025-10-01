@@ -1,4 +1,4 @@
-import BrainViewer from './BrainViewer'
+import BrainViewer from './BrainViewer1'
 import BrainHover from './BrainHover'
 
 function App() {
