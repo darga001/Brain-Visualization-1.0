@@ -1,12 +1,24 @@
-# React + Vite
+# Brain Exploration 1 🧠
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D brain visualization project built with **React + Three.js + Vite**.  
+This project includes two demos:  
+- **BrainViewer** → Select brain regions via menu.  
+- **BrainHover** → Hover to reveal brain regions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌍 Live Demo (Vercel)
 
-## Expanding the ESLint configuration
+You can try the project live here:  
+👉 [Brain Exploration on Vercel]([https://your-vercel-project-url.vercel.app](https://brain-visualization-1-0-qcbd.vercel.app/))
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Running Locally
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/yourusername/brain-exploration-1.git
+cd brain-exploration-1
+npm install
