@@ -10,7 +10,7 @@ This project includes two demos:
 ## 🌍 Live Demo (Vercel)
 
 You can try the project live here:  
-👉 [Brain Exploration on Vercel]([https://your-vercel-project-url.vercel.app](https://brain-visualization-1-0-qcbd.vercel.app/))
+👉 https://brain-visualization-1-0-qcbd.vercel.app/
 
 ---
 
